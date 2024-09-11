@@ -1,3 +1,4 @@
+dvc add data/wine-quality.csv
 053  git status
  1054  git commit -a 
  1055  git commit -a -m 'v7'
