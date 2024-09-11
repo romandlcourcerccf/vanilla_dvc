@@ -1,0 +1,16 @@
+053  git status
+ 1054  git commit -a 
+ 1055  git commit -a -m 'v7'
+ 1056  git tag v7
+ 1057  git push
+ 1058  history
+ 1059  dvc status
+ 1060  dvc commit
+ 1061  dvc push
+ 1062  git status
+ 1063  git add -A
+ 1064  git commit -m 'v8'
+ 1065  git tag v8
+ 1066  git status
+ 1067  git checkout v7
+ 1068  dvc checkout
